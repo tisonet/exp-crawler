@@ -1,0 +1,15 @@
+build
+dist
+.idea
+.*.sw*
+.*.pyc
+/build/
+/dist/
+/*.egg-info/
+*egg*
+Session.vim
+.idea/
+.cache/
+.tox/
+.pytest_cache/
+**/*.pyc
