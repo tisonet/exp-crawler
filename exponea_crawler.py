@@ -5,7 +5,7 @@ from exponea.crawler.web_crawler import WebCrawler
 from exponea.crawler.storage import BlobFileStorage
 from exponea.crawler.downloader import SyncDownloader
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 
 if __name__ == '__main__':
